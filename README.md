@@ -3,17 +3,20 @@
 Hi 👋, I'm Okancan
 
 <p align="center">
-<a href="https://linkedin.com/in/okancan-balci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okancan-balci" height="30" width="30" /></a>
-<a href="https://kaggle.com/okancan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="okancan" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/okancan-balci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okancan-balci-linkedin" height="30" width="30" /></a>
+<a href="https://kaggle.com/okancan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="okancan-kaggle" height="30" width="30" /></a>
 </p>
 
 </h1>
 
-<h3 align="center">A passionate data person!</h3>
+As an aspiring Data Scientist/Machine Learning Engineer: 
 
-Welcome to my GitHub page! 
+* I do like the story telling aspect of the data analysis process. In the making of a good data story, **Exploratory Data Analysis** with solid **data visualizatons** are very important. While conducting the EDA aspects of **data integrity** and **data quality** must be kept in check.
+* I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications with high accuracy and low error.
+* I think **productionalizing Machine Learning algorithms** is the most important aspect of the Data Science process since ML Models in a vacuum can't really offer business value without being deployed.
+* In order to keep deployed Machine Learning applications resillient and strong **auiditing and monitoring processes** must be taken very seriously since Data Drift can rot deployed ML Models.
 
-I am an aspiring data scientist who likes every aspect of the data life cycle. But I must confess that I like the story telling aspect of the data analysis the most. I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications. In the making of a good data story, Exploratory Data Analysis with solid visualizatons are important and I enjoy exploring my data a lot. 
+
 
 Learning popular data science tools such as Python and R is very fun and I am looking forward to master them. I am also trying to develop my MLOps skills since even the best performing model isn't usefull in a vacuum so taking an ML or DL model to the production is very important.
 
