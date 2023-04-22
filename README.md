@@ -9,18 +9,24 @@ Hi 👋, I'm Okancan
 
 </h1>
 
-As an aspiring Data Scientist/Machine Learning Engineer: 
+#### As an aspiring Data Scientist/Machine Learning Engineer,
 
-* I do like the story telling aspect of the data analysis process. In the making of a good data story, **Exploratory Data Analysis** with solid **data visualizatons** are very important. While conducting the EDA aspects of **data integrity** and **data quality** must be kept in check.
-* I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications with high accuracy and low error.
-* I think **productionalizing Machine Learning algorithms** is the most important aspect of the Data Science process since ML Models in a vacuum can't really offer business value without being deployed.
-* In order to keep deployed Machine Learning applications resillient and strong **auiditing and monitoring processes** must be taken very seriously since Data Drift can rot deployed ML Models.
+* I do like the story telling aspect of the data analysis process. In the making of a good data story, **Exploratory Data Analysis** with solid **data visualizatons** is very important. While conducting the EDA, aspects of **data integrity** and **data quality** must be kept in check in the process of **data cleansing**.
+* I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications with high accuracy and low error rate.
+* I think **productionalizing Machine Learning algorithms** is the most important aspect of the Data Science process since even the best performing ML Models in a vacuum can't really offer **business value** without being deployed.
+* In order to keep deployed Machine Learning applications resillient and strong **auiditing and monitoring processes** must be taken very seriously since **Data Drift** can rot deployed ML Models as time goes. Proper monitoring and maintenance of deployed ML Models are only possible with **Continuous Integration and Continuous Delivery (CI/CD)**.
+
+#### I'm eager to ...
+
+* become a better **Linux** user since it is the OS of choice for all **Cloud Platforms**.
+* improve on common Data Science languages such as **Python, R and SQL** also get proficient at pipeline tools such as **Apache Beam** and **Apache Spark**.
+* forge ahead my **Cloud Computing** skills since I believe the best way to do Data Science is through **cloud native** applications. Currently I am making progress on **Google Cloud Platform**.
+* develop and hone my **Machine Learning Operations (MLOps)** abilities on cloud platforms by utilizing tools such as **Docker Containers, Kubernetes(KubeFlow), GitHub Actions, BigQuery ML and Vertex AI**.
 
 
+Since I consider myself as a data person I do enjoy learning new tools and tackling new challenges on Data Science related subjects such programming, statistics, mathematics or another framework such as **MLFlow**. Though learning process could be hard, time taking and painful😓 at times I believe it's also quite rewarding in an intellectual sense.
 
-Learning popular data science tools such as Python and R is very fun and I am looking forward to master them. I am also trying to develop my MLOps skills since even the best performing model isn't usefull in a vacuum so taking an ML or DL model to the production is very important.
-
-You can find my personal projects here on Github or on my Kaggle which are linked below.
+You can find my personal projects here on Github or on my [Kaggle](https://www.kaggle.com/okancan/code).
 
 If you wish to contact me my mail is **okancan.balci@gmail.com**
 
