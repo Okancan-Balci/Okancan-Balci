@@ -24,11 +24,11 @@ Hi 👋, I'm Okancan
 * develop and hone my **Machine Learning Operations (MLOps)** abilities on cloud platforms by utilizing tools such as **Docker Containers, Kubernetes(KubeFlow), GitHub Actions, BigQuery ML and Vertex AI**.
 
 
-Since I consider myself as a data person I do enjoy learning new tools and tackling new challenges on Data Science related subjects such programming, statistics, mathematics or another framework such as **MLFlow**. Though learning process could be hard, time taking and painful😓 at times I believe it's also quite rewarding in an intellectual sense.
+Since I consider myself as a data person I do enjoy learning new tools and tackling new challenges on Data Science related subjects such programming, statistics, mathematics or another Data/ML framework such as **MLFlow**. Though learning process could be hard, time taking and painful at times😓 I believe it's also quite rewarding in an intellectual sense.
 
 You can find my personal projects here on Github or on my [Kaggle](https://www.kaggle.com/okancan/code).
 
-If you wish to contact me my mail is **okancan.balci@gmail.com**
+If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always open to have a chitchat about Data Science 😊.
 
 
 <h3 align="left">Languages</h3>
@@ -38,7 +38,7 @@ If you wish to contact me my mail is **okancan.balci@gmail.com**
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/> </a>
-<a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Z_Shell_Logo_Color_Horizontal.svg/529px-Z_Shell_Logo_Color_Horizontal.svg.png?20220329144739" alt="zsh" width="80" height="60"/> </a>
+<a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Z_Shell_Logo_Color_Horizontal.svg/529px-Z_Shell_Logo_Color_Horizontal.svg.png?20220329144739" alt="zsh" width="80" height="55"/> </a>
 </p>
 
 
