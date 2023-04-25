@@ -3,23 +3,32 @@
 Hi 👋, I'm Okancan
 
 <p align="center">
-<a href="https://linkedin.com/in/okancan-balci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okancan-balci" height="30" width="30" /></a>
-<a href="https://kaggle.com/okancan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="okancan" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/okancan-balci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okancan-balci-linkedin" height="30" width="30" /></a>
+<a href="https://kaggle.com/okancan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="okancan-kaggle" height="30" width="30" /></a>
 </p>
 
 </h1>
 
-<h3 align="center">A passionate data person!</h3>
+#### As an aspiring Data Scientist/Machine Learning Engineer,
 
-Welcome to my GitHub page! 
+* I do like the story telling aspect of the data analysis process. In the making of a good data story, **Exploratory Data Analysis** with solid **data visualizatons** is very important. While conducting the EDA, aspects of **data integrity** and **data quality** must be kept in check in the process of **data cleansing**.
+* I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications with high accuracy and low error rate.
+* I think **productionalizing Machine Learning algorithms** is the most important aspect of the Data Science process since even the best performing ML Models in a vacuum can't really offer **business value** without being deployed.
+* In order to keep deployed Machine Learning applications resillient and strong **auiditing and monitoring processes** must be taken very seriously since **Data Drift** can rot deployed ML Models as time goes. Proper monitoring and maintenance of deployed ML Models are only possible with **Continuous Integration and Continuous Delivery (CI/CD)**.
 
-I am an aspiring data scientist who likes every aspect of the data life cycle. But I must confess that I like the story telling aspect of the data analysis the most. I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications. In the making of a good data story, Exploratory Data Analysis with solid visualizatons are important and I enjoy exploring my data a lot. 
+#### I'm eager to ...
 
-Learning popular data science tools such as Python and R is very fun and I am looking forward to master them. I am also trying to develop my MLOps skills since even the best performing model isn't usefull in a vacuum so taking an ML or DL model to the production is very important.
+* become a better **Linux** user since it is the OS of choice for all **Cloud Platforms**.
+* improve on common Data Science languages such as **Python, R and SQL** also get proficient at pipeline tools such as **Apache Beam** and **Apache Spark**.
+* forge ahead my **Cloud Computing** skills since I believe the best way to do Data Science is through **cloud native** applications. Currently I am making progress on **Google Cloud Platform**.
+* develop and hone my **Machine Learning Operations (MLOps)** abilities on cloud platforms by utilizing tools such as **Docker Containers, Kubernetes(KubeFlow), GitHub Actions, BigQuery ML and Vertex AI**.
 
-You can find my personal projects here on Github or on my Kaggle which are linked below.
 
-If you wish to contact me my mail is **okancan.balci@gmail.com**
+Since I consider myself as a data person I do enjoy learning new tools and tackling new challenges on Data Science related subjects such programming, statistics, mathematics or another Data/ML framework such as **MLFlow**. Though learning process could be hard, time taking and painful at times😓 I believe it's also quite rewarding in an intellectual sense.
+
+You can find my personal projects here on Github or on my [Kaggle](https://www.kaggle.com/okancan/code).
+
+If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always open to have a chitchat about Data Science 😊.
 
 
 <h3 align="left">Languages</h3>
@@ -29,7 +38,7 @@ If you wish to contact me my mail is **okancan.balci@gmail.com**
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/> </a>
-<a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Z_Shell_Logo_Color_Horizontal.svg/529px-Z_Shell_Logo_Color_Horizontal.svg.png?20220329144739" alt="zsh" width="80" height="60"/> </a>
+<a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Z_Shell_Logo_Color_Horizontal.svg/529px-Z_Shell_Logo_Color_Horizontal.svg.png?20220329144739" alt="zsh" width="80" height="55"/> </a>
 </p>
 
 
