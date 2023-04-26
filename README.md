@@ -80,6 +80,7 @@ If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always 
 <a href="https://beam.apache.org/" target="_blank" rel="noreferrer"> <img src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" alt="apache-beam" width="60" height="60"/> </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache-spark" width="60" height="60"/> </a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="bigquery" width="60" height="60"/> </a>
+<a href="https://cloud.google.com/automl" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/13_google-cloud-automl.021e8e3873.svg" alt="automl" width="60" height="60"/> </a>
 <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"> <img src="https://techcrunch.com/wp-content/uploads/2021/05/VertexAI-512-color.png" alt="vertex-ai" width="60" height="60"/> </a>
 
 </p>
