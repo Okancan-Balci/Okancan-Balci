@@ -9,27 +9,18 @@ Hi 👋, I'm Okancan
 
 </h1>
 
-#### As an aspiring Data Scientist/Machine Learning Engineer,
+####  Here are my interests on the Data Field (very briefly):
 
-* I do like the story telling aspect of the data analysis process. In the making of a good data story, **Exploratory Data Analysis** with solid **data visualizatons** is very important. While conducting the EDA, aspects of **data integrity** and **data quality** must be kept in check in the process of **data cleansing**.
-* I believe a good data scientist should know his data's story in order to be able to build strong and resilient Machine Learning applications with high accuracy and low error rate.
-* I think **productionalizing Machine Learning algorithms** is the most important aspect of the Data Science process since even the best performing ML Models in a vacuum can't really offer **business value** without being deployed.
-* In order to keep deployed Machine Learning applications resillient and strong **auiditing and monitoring processes** must be taken very seriously since **Data Drift** can rot deployed ML Models as time goes. Proper monitoring and maintenance of deployed ML Models are only possible with **Continuous Integration and Continuous Delivery (CI/CD)**.
+* Data Visualization
+* Statistics / Econometrics
+* Machine Learning Operations
 
-#### I'm eager to ...
+#### And ofcourse to enable the things above:
 
-* become a better **Linux** user since it is the OS of choice for all **Cloud Platforms**.
-* improve on common Data Science languages such as **Python, R and SQL** also get proficient at pipeline tools such as **Apache Beam** and **Apache Spark**.
-* forge ahead my **Cloud Computing** skills since I believe the best way to do Data Science is through **cloud native** applications. Currently I am making progress on **Google Cloud Platform**.
-* develop and hone my **Machine Learning Operations (MLOps)** abilities on cloud platforms by utilizing tools such as **Docker Containers, Kubernetes(KubeFlow), GitHub Actions, BigQuery ML and Vertex AI**.
+* Cloud Computing
+* Data Processing / Transformation / Wrangling
 
-
-Since I consider myself as a data person I do enjoy learning new tools and tackling new challenges on Data Science related subjects such programming, statistics, mathematics or another Data/ML framework such as **MLFlow**. Though learning process could be hard, time taking and painful at times😓 I believe it's also quite rewarding in an intellectual sense.
-
-You can find my personal projects here on Github or on my [Kaggle](https://www.kaggle.com/okancan/code).
-
-If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always open to have a chitchat about Data Science 😊.
-
+Below you can find some tools that I use regularly or the tools that I am trying to get better at. 
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -58,11 +49,15 @@ If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" alt="plotly" width="60" height="60"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="60" height="60"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="60" height="60"/></a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="60" height="60"/></a>
-  
+
 <br>
 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="65" height="65"/></a> 
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" alt="rsutdio-IDE" width="70" height="70"/></a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter-lab" width="60" height="65"/></a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="65" height="65"/></a> 
@@ -85,6 +80,8 @@ If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always 
 
 </p>
 
+You can find my personal projects here on Github or on my [Kaggle](https://www.kaggle.com/okancan/code).
 
+If you wish to contact me my e-mail is **okancan.balci@gmail.com**. I am always open to have a chitchat about Data Science 😊.
 
 
