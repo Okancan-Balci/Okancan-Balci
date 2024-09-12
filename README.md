@@ -12,7 +12,7 @@ Hi 👋, I'm Okancan
 ####  Here are my interests on the Data Field (very briefly):
 
 * Data Visualization
-* Statistics / Econometrics
+* Statistics / Econometrics / ML
 * Machine Learning Operations
 
 #### And ofcourse to enable the things above:
